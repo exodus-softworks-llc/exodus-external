@@ -27,7 +27,7 @@
 
 ## Installation
 
-1. go to releases and download the latest one
+1. go to releases and download the latest release
 2. map the driver
 3. open exodus.exe
 4. enjoy dominating 🔥
